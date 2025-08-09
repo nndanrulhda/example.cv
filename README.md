@@ -168,8 +168,7 @@
     <div class="container">
         <!-- Banner -->
         <div class="banner">
-            <img src="![WhatsApp Image 2025-08-09 at 18 12 39_2b427601](https://github.com/user-attachments/assets/cf8db48e-5c69-4eac-96cb-b368a973af6d)
-" alt="Foto Profil" class="profile-photo">
+            <img src="WhatsApp Image 2025-08-09 at 18.12.39_2b427601.jpg" alt="Foto Profil" class="profile-photo">
         </div>
 
         <!-- Header -->
