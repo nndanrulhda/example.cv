@@ -201,7 +201,7 @@
             <h2>Pengalaman</h2>
             <ul>
                 <li>OSIS SMA - Wakil Ketua Seksi Bidang 1 (2023-2024)</li>
-                <li>Pernah terlibat dalam event bulanan program kerja OSIS dan HUT SMAN 1 Majalengka sebagai divisi logistik, yang menyiapkan peralatan demi keberlangsungan acara</li>
+                <li>Pernah terlibat dalam event bulanan program kerja OSIS dan HUT SMAN 1 Majalengka sebagai divisi logistik yang menyiapkan peralatan demi keberlangsungan acara</li>
             </ul>
         </div>
 
@@ -217,7 +217,7 @@
                 <span class="skill-tag">Fundamental Physics </span>
                 <span class="skill-tag">Emotional Intelligence </span>
                 <span class="skill-tag">Interpersonal Skill </span>
-                <span class="skill-tag">Adaaption Skill </span>
+                <span class="skill-tag">Adaptation Skill </span>
             </div>
         </div>
 
