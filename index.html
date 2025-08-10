@@ -168,7 +168,7 @@
     <div class="container">
         <!-- Banner -->
         <div class="banner">
-            <img src="/WhatsApp Image 2025-08-09 at 18.12.39_2b427601.jpg" alt="Foto Profil" class="profile-photo">
+            <img src="WhatsApp Image 2025-08-09 at 18.12.39_2b427601.jpg" alt="Foto Profil" class="profile-photo">
         </div>
 
         <!-- Header -->
